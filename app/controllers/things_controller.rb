@@ -10,8 +10,7 @@ class ThingsController < ApplicationController
   # GET /things/1
   # GET /things/1.json
   def show
-    render js: "alert('The number is: #{params[:id]}')"
-  end 
+  end
 
   # GET /things/new
   def new
