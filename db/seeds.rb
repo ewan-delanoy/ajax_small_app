@@ -5,3 +5,7 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+Thing.create(essence:"life",substance:"death");
+Thing.create(essence:"black",substance:"white");
+Thing.create(essence:"one",substance:"two");
