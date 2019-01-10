@@ -9,3 +9,8 @@
 Thing.create(essence:"life",substance:"death");
 Thing.create(essence:"black",substance:"white");
 Thing.create(essence:"one",substance:"two");
+
+Task.create! name: "Meet Mr. Miyagi", complete: true
+Task.create! name: "Paint the fence", complete: true
+Task.create! name: "Wax the car"
+Task.create! name: "Sand the deck"
